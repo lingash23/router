@@ -12,10 +12,10 @@ background-color:rgb(255, 255, 255);
 
 .navbar{
   background-color: rgb(255, 255, 255) ;
-  color: black;
+  color: rgb(218, 211, 211);
   
 }
-
+  
 .nav-underline .nav-link::before {
   content: "";
   position: absolute;
@@ -28,18 +28,13 @@ background-color:rgb(255, 255, 255);
 }
 
 .nav-underline .nav-link:hover {
-  color: red;
-  font-weight: bold;
-}
-
-.nav-underline .nav-link:hover::before {
-  width: 100%; 
+  color: rgb(46, 227, 244);
 }
 
 .read-more {
   display: block;
   margin-top: 10px; 
-  color: green; 
+  color: rgb(0, 0, 0); 
   text-decoration: none;
 }
 
