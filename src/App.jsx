@@ -11,63 +11,63 @@ function App() {
   let data=[
     {
       type:"FSD",
-      img:"https://www.guvi.in/blog/wp-content/uploads/2023/11/top-ways-to-assess-soft-skills-in-full-stack-developers.webp",
+      img:"https://www.keycdn.com/img/support/full-stack-development.png",
       content:"Top Ways to Assess Soft Skills in Full Stack Developers in 2024",
       
     },
     {
       type:"FSD",
-      img:"https://www.guvi.in/blog/wp-content/uploads/2023/11/Feature-image-Full-Stack-Developer-vs-Software-Engineer-.webp",
+      img:"https://www.keycdn.com/img/support/full-stack-development.png",
       content:"Top Differences: Full Stack Developer vs Software Engineer 2024",
     },
     {
       type:"FSD",
-      img:"https://www.guvi.in/blog/wp-content/uploads/2023/11/Feature-image-Horizontal-vs-Vertical-Scaling-for-Efficient-System-Design.webp",
+      img:"https://www.keycdn.com/img/support/full-stack-development.png",
       content:"Horizontal vs Vertical Scaling for Efficient System Design",
     },
     {
       type:"CyberSecurity",
-      img:"https://www.guvi.in/blog/wp-content/uploads/2023/12/Feature-image-Non-Coding-Jobs-in-Cybersecurity.webp",
+      img:"https://imageio.forbes.com/specials-images/imageserve/5fbeb1078f6a67593da00784/----------/960x0.jpg?height=399&width=711&fit=bounds",
       content:"Non-Coding Jobs in Cybersecurity: A Comprehensive Guide",
     },
     {
       type:"CyberSecurity",
-      img:"https://www.guvi.in/blog/wp-content/uploads/2023/12/Feature-image-Install-Miro-on-Windows-A-2-Step-Comprehensive-Guide.webp",
+      img:"https://imageio.forbes.com/specials-images/imageserve/5fbeb1078f6a67593da00784/----------/960x0.jpg?height=399&width=711&fit=bounds",
       content:"Install Miro on Windows: A 2-Step Comprehensive Guide",
     },
     {
       type:"CyberSecurity",
-      img:"https://www.guvi.in/blog/wp-content/uploads/2023/09/Feature-image-What-Is-Hacking_-Types-of-Hacking-More.webp",
+      img:"https://imageio.forbes.com/specials-images/imageserve/5fbeb1078f6a67593da00784/----------/960x0.jpg?height=399&width=711&fit=bounds",
       content:"What Is Hacking? Types of Hacking & More",
     },
     {
       type:"Career",
-      img:"https://www.guvi.in/blog/wp-content/uploads/2023/12/Feature-image-Top-IT-Jobs-for-Economics-Students.webp",
+      img:"https://www.digitalvidya.com/blog/wp-content/uploads/2019/07/Career-Planning_11e51d7713b3dd7a9c26782ae82eb165.jpg",
       content:"Top 5 IT Jobs for Economics Students",
     },
     {
       type:"Career",
-      img:"https://www.guvi.in/blog/wp-content/uploads/2023/12/Feature-image-Automation-Test-Engineer-Resume-Important-Things-To-Consider.webp",
+      img:"https://www.digitalvidya.com/blog/wp-content/uploads/2019/07/Career-Planning_11e51d7713b3dd7a9c26782ae82eb165.jpg",
       content:"Automation Test Engineer Resume: 10 Important Things To Consider",
     },
     {
       type:"Career",
-      img:"https://www.guvi.in/blog/wp-content/uploads/2023/12/Feature-image-Top-IT-Jobs-for-Commerce-Students.webp",
+      img:"https://www.digitalvidya.com/blog/wp-content/uploads/2019/07/Career-Planning_11e51d7713b3dd7a9c26782ae82eb165.jpg",
       content:"Top IT Jobs for Commerce Students: A Lucrative Career Path",
     },
     {
       type:"DataScience",
-      img:"https://www.guvi.in/blog/wp-content/uploads/2023/11/Feature-image-Top-High-Paying-Non-Coding-Jobs-in-Data-Science.webp",
+      img:"https://www.mygreatlearning.com/blog/wp-content/uploads/2019/09/What-is-data-science-2.jpg",
       content:"Best Data Science course through non codejobs",
     },
     {
       type:"DataScience",
-      img:"https://www.guvi.in/blog/wp-content/uploads/2023/10/Feature-image-Best-books-to-learn-data-science.webp",
+      img:"https://www.mygreatlearning.com/blog/wp-content/uploads/2019/09/What-is-data-science-2.jpg",
       content:"Best Data Science course books on this industry",
     },
     {
       type:"DataScience",
-      img:"https://www.guvi.in/blog/wp-content/uploads/2023/10/Feature-image-Best-books-to-learn-data-science.webp",
+      img:"https://www.mygreatlearning.com/blog/wp-content/uploads/2019/09/What-is-data-science-2.jpg",
       content:"Best Data Science course",
       },
     
